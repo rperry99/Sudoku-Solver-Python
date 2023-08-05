@@ -72,7 +72,10 @@ def solve_puzzle(puzzle):
     # If all possible numbers (1-9) are not valid, then the puzzle is unsolvable. 
     return False;
 
+<<<<<<< HEAD
 # Run Sudoku_Solver.py
+=======
+>>>>>>> 69c57dc7ae92978e661fc79884c95dd7d7654503
 if __name__ == '__main__':
     example_board = [
         [3, 9, 1,  -1, 5, -1,  -1, -1, -1],
